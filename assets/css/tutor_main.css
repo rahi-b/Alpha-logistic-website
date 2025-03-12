@@ -1,0 +1,140 @@
+/*=====================
+transto TUTOR MAIN CSS
+=========================*/
+.tutor-course-filter-wrapper {
+     padding: 100px 0px 80px;
+    overflow: hidden;	 
+}
+.tutor-wrap {
+     padding: 100px 0px 80px; 
+}
+.tutor-course-filter-loop-container.tutor-wrap {
+    padding: 0;
+}
+.tutor-course-filter-wrapper .tutor-wrap {
+     padding: 0px; 
+}
+.tutor-course-loop-header-meta {
+    z-index: 3;
+}
+.tutor-cart-box-login-form {
+    z-index: 999;	
+}
+.tutor-course-loop {
+    box-shadow: 0 10px 40px 0 rgb(50 65 141 / 12%);
+    border-radius: 5px;
+	border: none;
+}
+
+.etlms-course-list-classic .etlms-card,
+.etlms-coursel-classic .etlms-card{
+	border: none !important;
+    box-shadow: 0 20px 40px 0 rgba(50,65,141,.12);	
+}
+.etlms-course-list-classic .etlms-card:hover,
+.etlms-coursel-classic .etlms-card:hover{
+    box-shadow: 0 40px 50px 0 rgba(50,65,141,.08)!important;	
+}
+.tutor-course-header a {
+    overflow: hidden;
+}
+.tutor-course-header img {
+	-webkit-transition:.5s;
+	transition:.5s;	
+}
+.tutor-course.tutor-course-loop:hover .tutor-course-header img {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);	
+}
+.tutor-course-loop-level {
+    padding: 8px 10px;
+	font-size:16px;
+}
+.tutor-course-filter-form select {
+	padding: 12px 10px;
+    cursor: pointer;
+    outline: none;
+}
+.tutor-course-archive-results-wrap strong {
+    padding: 5px 12px;
+    height: 5px;
+    width: 15px;
+    border-radius: 5px;
+}
+.tutor-course-loop-title h2, 
+.tutor-course-loop-title h2 a:hover {
+    font-weight: 600;
+}
+.tutor-course-details-widget {
+    box-shadow: 0px 0px 20px 0px rgb(98 86 86 / 9%);
+    padding: 20px 15px 16px;
+    background: #fff;
+}
+.tutor-course-details-widget .tutor-course-details-widget-title{
+	font-size: 22px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.filter-widget-input-wrapper{
+	box-shadow: 0 0px 23px rgb(0 0 0 / 10%);
+	padding: 20px 15px 17px;
+}
+.tutor-course-listing-filter .filter-widget-input-wrapper {
+    margin-top: 25px;
+}
+.tutor-input-group.tutor-form-control-has-icon .tutor-input-group-icon {
+    left: auto;
+    line-height: 57px;
+}
+.tutor-form-check.tutor-mb-20 {
+    margin-bottom: 8px;
+}
+.tutor-form-check input:focus{
+    border-color: #c0c3cb;
+}
+.tutor-clear-all-filter a{
+    color: #41454f;
+}
+.tutor-dashboard .tutor-frontend-dashboard-maincontent ul.tutor-dashboard-permalinks:before {
+    height: 100%;
+}
+
+/*=====================
+transto TUTOR LMS MAIN CSS
+=========================*/
+.tutor-course-filter-wrapper {
+     padding: 100px 0px 80px;
+    overflow: hidden;	 
+}
+.tutor-wrap {
+     padding: 100px 0px 80px; 
+}
+.tutor-course-filter-loop-container .tutor-wrap ,
+.tutor-course-filter-loop-container.tutor-wrap {
+    padding: 0;
+}
+.tutor-course-filter-wrapper .tutor-wrap {
+     padding: 0px; 
+}
+.tutor-course-filter-widget {
+    float: left;
+}
+.tutor-course-details-widget {
+    box-shadow: 0px 0px 20px 0px rgb(98 86 86 / 9%);
+    padding: 20px 15px 16px;
+    background: #fff;
+    margin-top: 30px;	
+}
+.tutor-widget {
+    box-shadow: 0 0 23px rgb(0 0 0 / 10%);
+    padding: 20px 15px 23px;
+    margin-top: 25px;
+}
+.list-item-button a {
+     font-size: auto; 
+}
+.tutor-dashboard .tutor-frontend-dashboard-maincontent ul.tutor-dashboard-permalinks,
+.tutor-dashboard .tutor-frontend-dashboard-maincontent ul.tutor-dashboard-permalinks:before{
+    height: 70%;
+}
+
